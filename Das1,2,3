@@ -1,0 +1,94 @@
+# print('Your message here')
+# age = 48
+# name = 'Anna'
+# print(name, age)
+
+# x = 'pi is'
+# y = 3.14
+# print(x, y, sep = ' : ')
+
+# print('Hello', end = ', ')
+# print('World', end = '.\n')
+
+# firstname = input()
+# print('Hello', firstname)
+
+# firstName = input('Enter your first name: ')
+# print('Hello, ', firstName)
+
+# n1 = int(input('n1:'))
+# n2 = int(input('n2:'))
+# print('The sum of two numbers is: ', n1+n2)
+
+# num = int(input())
+# if num > 0:
+#   print(num, 'is a positive number.')
+# print('Finish')
+
+# a = 3
+# b = 7
+# c = 5
+# if a<b:
+#   print(a, 'is less than', b)
+#   if c<b:
+#     print(c, 'is less than', b)
+#   else:
+#     print(c, 'is not less than', b)
+# else:
+#   print(a, 'is not less than', b)
+
+# a = 2
+# if a<0:
+#   print(a, 'is negative')
+# elif a == 0:
+#   print('it is 0')
+# elif a>0 and a<6:
+#   print(a, 'is in (0,6)')
+# else:
+#   print(a, 'equals or greater than 6')
+
+# a = 2
+# b = 2
+# if a<b:
+#   print(a, 'is less than', b)
+# elif a>b:
+#   print(a, 'is greater than', b)
+# else:
+#   print(a, 'equals', b)
+
+#cikli operatorner. while, for
+
+# i = 1 
+# while i < 6:
+#   print(i)
+#   i+=1
+
+# i = 1
+# while i < 6:
+#   print(i)
+#   if i == 3:
+#     break
+#   i += 1
+
+# i = 0
+# while i < 6:
+#   i+=1
+#   if i == 3:
+#     continue
+#   print(i)
+
+# i = 1
+# while i < 6:
+#   print(i)
+#   i+=1
+# else:
+#   print('i is no longer less than 6')
+
+# "Alice" in ["Alice", "Bob", "Charlie"]
+# "Hello" in "Hello world"
+
+# fruits = ["apple", "banana", "cherry"]
+# for x in fruits:
+#   print(x)
+# for x in "banana":
+#   print(x)
